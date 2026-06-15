@@ -1,5 +1,4 @@
 # Netflix-Streaming-Content-Analytics-Dashboard
-# Netflix Content Strategy Dashboard
 
 ## Overview
 
